@@ -141,7 +141,7 @@ li:hover ul { display: block; }
 .itens::before{
   font-size: 1.8em;
   padding: 13px;
-  content: url(/img/pata.png);
+  content: url(./pata.png);
 
 }
 .imagemsobre{
