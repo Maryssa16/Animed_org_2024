@@ -50,7 +50,7 @@ header{
       }
       body {
         font-family: Arial, sans-serif;
-        background-image: url(/img/quem\ somos.jpg);
+        background-image: url(./quem\ somos.jpg);
         color: #5b3a29;
         margin: 0;
         padding: 0;
